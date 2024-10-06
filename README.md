@@ -1,2 +1,1 @@
-;netstat -a;
-ltaudio src=x>
+sdcsdcsdc
